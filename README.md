@@ -6,11 +6,10 @@ O sistema cadastra pedidos, mantém uma **lista de pedidos** e uma **fila de ent
 
 ## Integrantes (Grupo 2)
 
-- Kaike
-- Zaqueu
-- Davi
-- Leonardo
-- Eduardo
+- Kaike Leroy 
+- Zaqueu Noan
+- Davi Rodrigues Rocha  
+- Leonardo Azevedo 
 
 ## Estruturas de dados lineares
 
