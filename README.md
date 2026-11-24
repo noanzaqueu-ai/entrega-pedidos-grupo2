@@ -102,4 +102,4 @@ Os prints completos estão em [`docs/prints`](docs/prints). Alguns exemplos:
 
 ## Documentação
 
-O relatório completo (introdução, objetivo, desenvolvimento e conclusão) está em [`docs/Relatorio_Entrega_Pedidos_Grupo2.pdf`](docs/Relatorio_Entrega_Pedidos_Grupo2.pdf).
+O relatório completo (introdução, objetivo, desenvolvimento e conclusão) está em (docs/Relatorio_Entrega_Pedidos_Grupo2.pdf).
